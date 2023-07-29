@@ -1,11 +1,11 @@
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
-int main(){
+int main()
+{
 
-cout<<"Heyy!  World!!"<<endl;
+    cout << "Heyy World!!" << endl;
 
-return 0;
-
+    return 0;
 }
